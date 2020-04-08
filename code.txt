@@ -1,3 +1,4 @@
+cd C:\Users\PlexServer\Desktop\VPN_Setup\VPN_Setup
 git add .
-git commit -m "First commit"
+git commit -m "Commit"
 git push origin master
